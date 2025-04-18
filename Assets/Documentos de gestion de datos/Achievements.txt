@@ -1,0 +1,5 @@
+AchievementName,Obtained
+"Come 50 veces", false
+"Come 100 veces", false
+"Come 150 veces", false
+"Come 300 veces", false
